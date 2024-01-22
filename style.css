@@ -1,0 +1,66 @@
+.one{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: space-between;
+}
+.one>h1{
+    margin-left: 100px;
+}
+nav{
+    margin-right: 50px;
+    margin-top:30px;
+}
+nav>a{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    
+}
+section{
+    margin-top: 100px;
+}
+section>div{
+    margin-top: 200px;
+    height: 500px;
+}
+#red{
+    background-color: red;
+    padding: 250px;
+    text-align: center;
+    font-size:100px;
+    display: flex;
+    flex-direction: column;
+}
+#yellow{
+    background-color:yellow;
+    padding: 250px;
+    text-align: center;
+    font-size:100px;
+    display: flex;
+    flex-direction: column;
+}
+#green{
+    background-color: green;
+    padding: 250px;
+    text-align: center;
+    font-size:100px;
+    display: flex;
+    flex-direction: column;
+}
+#skyblue{
+    background-color: aqua;
+    padding: 250px;
+    text-align: center;
+    font-size:100px;
+    display: flex;
+    flex-direction: column;
+}
+#blue{
+    background-color:blue;
+    padding: 250px;
+    text-align: center;
+    font-size:100px;
+    display: flex;
+    flex-direction: column;
+}
